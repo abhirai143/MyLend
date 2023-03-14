@@ -1,0 +1,175 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.title{
+    background-color: #007bff;
+}
+
+
+.title-col{
+    height: 500px;
+}
+
+
+.navbar-brand{
+    font-weight: 800;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3rem;
+    color: white; 
+    line-height: 1.5;
+}
+
+.title-data{
+    text-align: center;
+    margin-top: 25%;
+}
+
+.title-btn{
+    margin-left: 10px;
+}
+
+.rotate-img{
+    margin-top: 10%;
+    width: 70%;
+    transform: rotate(20deg);
+}
+
+
+/* --------------feature-------- */
+
+
+#features{
+    padding: 100px 0 100px 0;
+    text-align: center;
+
+
+}
+h3{
+    font-family: "Montserrat-bold";
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+p{
+    color: #8f8f8f;
+    line-height: 2;
+    
+}
+
+i:hover{
+    color: #007bff;
+}
+.feature-box{
+    padding: 20px 20px;
+}
+
+
+.fa-circle-check{
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #5BC0F8;
+}
+.fa-calculator{
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #5BC0F8;
+
+}
+
+.fa-desktop{
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #5BC0F8;
+}
+
+
+/* who--------- */
+
+
+#who-we{
+    text-align: center;
+    background-color: #5BC0F8;
+}
+
+.intro{
+    text-align: left;
+    padding-top: 20px;
+}
+
+.whowe{
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.test-color{
+    color: #007bff;
+    font-size: 40px;
+    font-family: "Montserrat-bold";
+}
+.intro-text{
+    color: #000;
+    font-size: 15px;
+    line-height: 2;
+}
+
+
+/* -----------team---------- */
+
+
+#team{
+    padding: 100px 0 100px 0;
+    text-align: center;
+
+}
+
+.our-team{
+    color: #007bff;
+    font-size: 40px;
+    font-family: "Montserrat-bold";
+}
+
+.team-img{
+    width: 70%;
+}
+.image-down{
+    margin-top: 20px;
+}
+
+.team-h3{
+    margin-top: 10px;
+    color: #5BC0F8;
+    font-weight: 600;
+}
+
+.feature-box{
+    border-right: 3px solid #eeeeee;
+}
+
+/* ----footer----- */
+
+#footer{
+    text-align: center;
+    background-color: #5BC0F8;
+    padding: 30px 0 20px 0;
+}
+
+.footer-logo{
+    color: black;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.footer-logo:hover{
+    color: #007bff;
+}
+
+.footer-text{
+    font-size: 13px;
+    margin-top: 5px;
+    color: #000;
+}
